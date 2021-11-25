@@ -7,6 +7,11 @@ y desde otro ordenador usando WAMP en la carpeta wamp64/www.
 
 Abrir el archivo index.html desde el servidor web y no directamente.
 
+## Resultado:
+![dragndrop](https://user-images.githubusercontent.com/59764503/143457096-aae59a92-23bf-4e91-b9ef-4447de99fd0b.PNG)
+Después de recargar la página
+![posicionesdragdrop](https://user-images.githubusercontent.com/59764503/143457136-f3b594c9-7106-4355-83f9-a4b18373193c.PNG)
+
 
 
 Una empresa me contactó y me puso esta prueba, aqui los requisitos que me pidieron:
